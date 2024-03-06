@@ -1,6 +1,6 @@
 ## Description
 This repository contains the MySQL schema for a database related to an equestrian center (Ecurie), including tables for breeds (Race), competitions (Concours), personnel (Personne), horses (Cheval), growth data (Croissance), participation in competitions (Participation), and ownership transactions (Proprietaire).  
-*The data including tables and field names, is in French.*
+*The data in the database, including table and field names, is in French.*
 
 ## Tables Description
 - Race: Contains information about horse breeds, including the name of the breed, average weight (poidsType), and average height (tailleType).
